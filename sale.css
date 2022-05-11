@@ -44,6 +44,15 @@ li{
 	font-size: 24px;
 }
 
+.item{
+  margin: 0 75px;
+}
+
+li button{
+  margin: 0 58px;
+  padding: 10px;
+}
+
 h1 {
 		text-decoration: underline;
 }
@@ -54,4 +63,12 @@ h2 {
 
 .loca {
 	text-decoration: underline;
+}
+
+.extra li .item{
+	  margin: 0 40px;
+}
+
+.extra li{
+	  margin: 0 75px;
 }
